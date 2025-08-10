@@ -3,7 +3,6 @@
 ---
 
 ![FDA Food Data Banner](./visualizations/banner.png)  
-*Example visualization or project banner here*
 
 ---
 
@@ -16,7 +15,7 @@ This project explores **FDA public datasets** related to **food complaints, adve
 ## 📊 Tools & Data Sources
 
 - **Data Source:** [FDA Food Dataset (BigQuery Public)](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2sfda_drug) 
-- **Tools:** Google BigQuery, Tableau (for visualization)  
+- **Tools:** Google BigQuery, Tableau, Excel (for visualization)  
 - **Skills Demonstrated:** SQL querying, data cleaning, analysis, public health data insight
 
 ---
