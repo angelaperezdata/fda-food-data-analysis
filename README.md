@@ -62,7 +62,7 @@ This project explores **FDA public datasets** related to **food complaints, adve
 
 Visualizations created from query results provide actionable insights and are saved in the `visualizations/` folder.
 
-![Sample Visualization](./visualizations/sample_viz.png)  
+![Sample Visualization](./visualizations/top_10_industries_by_hospitalizations.PNG)
 *Example: Bar chart showing top industries by hospitalizations.*
 
 ---
